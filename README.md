@@ -1,4 +1,4 @@
-# Tracking Finances 
+# Tracking Trades 
 
 
 ## Done 
