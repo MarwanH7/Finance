@@ -1,1 +1,4 @@
-# Hobbies-Repo
+# Tracking Finances 
+
+* Jounral 
+
