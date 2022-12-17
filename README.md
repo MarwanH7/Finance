@@ -22,6 +22,8 @@
   * T1	T2	T3
   * Win Amount	
   * Loss Amount
+  * Notes 
+  * Screenshot of the setup
 
 
 ## In progress 
