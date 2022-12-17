@@ -1,4 +1,4 @@
 # Tracking Finances 
 
-* Jounral 
+* Trade Journal 
 
