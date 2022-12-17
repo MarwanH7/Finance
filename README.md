@@ -12,16 +12,16 @@
 
 * Input is throught an excel spreadsheet (manually entered before each trade) and has the following columns 
 
- * Date 	
- * Long/Short	
- * Win/Loss	
- * Symbol	
- * Entry	
- * Exit	
- * Stop Loss
- * T1	T2	T3
- * Win Amount	
- * Loss Amount
+  * Date 	
+  * Long/Short	
+  * Win/Loss	
+  * Symbol	
+  * Entry	
+  * Exit	
+  * Stop Loss
+  * T1	T2	T3
+  * Win Amount	
+  * Loss Amount
 
 
 ## In progress 
